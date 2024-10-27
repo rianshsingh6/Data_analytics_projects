@@ -1,0 +1,33 @@
+Project Overview
+This project simulates the role of a Data Analyst working with the product team at Instagram. The primary goal is to analyze user interactions and engagement on the Instagram platform to derive actionable insights that can help drive product improvements and influence marketing strategies. By exploring user behavior, we can deliver data-backed recommendations to key business stakeholders, such as the product, marketing, and development teams, and enable them to make informed decisions.
+Project Objectives
+The analysis centers on extracting insights from Instagram user data using SQL and MySQL Workbench. By addressing specific business questions from the management, this project aims to provide the following actionable insights:
+•	Marketing Insights: Identifying the most loyal users, inactive users, top influencers, and high-traffic hashtags to aid in targeted marketing efforts.
+•	Investor Metrics: Evaluating user engagement, identifying potential bot activity, and analyzing user-generated content trends to provide transparency to investors.
+These insights have the potential to guide both short-term campaigns and long-term product decisions, ensuring that Instagram continues to thrive as one of the world's leading social media platforms.
+SQL Analysis Tasks
+The SQL analysis in this project is divided into two key sections:
+A) Marketing Analysis
+1.	Loyal User Reward: Identify the platform's longest-standing users.
+2.	Inactive User Engagement: Flag users who haven't posted photos for re-engagement campaigns.
+3.	Contest Winner Declaration: Find the user with the most-liked photo for prize distribution.
+4.	Hashtag Research: Reveal the top five hashtags to maximize post reach.
+5.	Ad Campaign Launch: Determine the best day for user registration to optimize ad scheduling.
+B) Investor Metrics
+1.	User Engagement: Calculate average posts per user to assess platform engagement.
+2.	Bots & Fake Accounts: Detect suspicious accounts that show bot-like behavior by analyzing excessive liking patterns.
+Project Approach
+1.	Database Setup: Begin by creating a database with provided SQL commands to structure the Instagram user data.
+2.	Data Analysis Using SQL: Perform in-depth SQL queries within MySQL Workbench to address each task, ensuring accuracy and efficiency.
+3.	Report Preparation: Document the findings in a report format, including snapshots of SQL queries and their outputs.
+Tech Stack
+•	SQL and MySQL Workbench were chosen for their robust querying capabilities and intuitive interface, making it easy to perform complex data analysis and visualize query results effectively.
+
+Key Insights
+This project revealed valuable insights into user behavior and engagement patterns on Instagram. Here are some notable findings:
+•	User Loyalty & Inactivity: Identification of core loyal users and inactive users who could benefit from re-engagement efforts.
+•	Engagement Metrics: Provided clarity on active engagement levels across the platform, along with potential bot detection insights.
+•	Campaign Optimization: Discovered optimal hashtags and registration days, helping the marketing team schedule campaigns for maximum impact.
+
+Results and Impact
+Through this analysis, I gained a deeper understanding of how data analytics can directly influence business decisions and user experience. This project has sharpened my SQL skills and provided hands-on experience in turning raw data into meaningful insights that can shape product strategies and support investor relations.
